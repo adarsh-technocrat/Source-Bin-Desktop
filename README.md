@@ -1,4 +1,4 @@
-# source_bin
+# Source Bin
 
 A new Flutter project.
 
