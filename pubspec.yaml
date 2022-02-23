@@ -39,6 +39,9 @@ dependencies:
   animations: ^2.0.2
   animate_do: ^2.1.0
   lottie: ^1.2.2
+  win_toast: ^0.0.2
+  http: ^0.13.4
+  flutter_bloc: ^8.0.1
 
 dev_dependencies:
   flutter_test:
